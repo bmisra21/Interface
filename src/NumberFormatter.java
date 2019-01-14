@@ -1,4 +1,4 @@
-public interface NumberFormatter 
-	{  
-	    String format(int a); 
-	}
+public interface NumberFormatter
+{
+	public String format(int num);
+}
